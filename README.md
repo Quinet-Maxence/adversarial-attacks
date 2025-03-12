@@ -85,7 +85,7 @@ This repository covers **both White-Box and Black-Box** adversarial attacks, str
 ### 🎯 White-Box Attacks (Full Model Access)  
 | Attack Name | Description | Notebook |
 |------------|-------------|-----------|
-| **FGSM** (Fast Gradient Sign Method) | Classic one-step gradient-based attack. | [`FGSM_AdversarialAttack.ipynb`](FGSM_AdversarialAttack.ipynb) |
+| **FGSM** (Fast Gradient Sign Method) | Classic one-step gradient-based attack. | [`FGSM_AdversarialAttack.ipynb`](1_FGSM.ipynb) |
 | **PGD** (Projected Gradient Descent) | Iterative version of FGSM with stronger perturbations. | [`PGD_AdversarialAttack.ipynb`](PGD_AdversarialAttack.ipynb) |
 | **DeepFool** | Minimal perturbation attack based on decision boundaries. | [`DeepFool_AdversarialAttack.ipynb`](DeepFool_AdversarialAttack.ipynb) |
 | **Carlini & Wagner (C&W)** | One of the strongest optimization-based attacks. | [`CW_AdversarialAttack.ipynb`](CW_AdversarialAttack.ipynb) |
