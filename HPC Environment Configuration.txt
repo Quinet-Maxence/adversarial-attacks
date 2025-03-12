@@ -1,0 +1,69 @@
+# ENVIRONMENT CREATION
+
+micromamba create -n whitebox_attack python=3.9.13 -y 
+
+micromamba activate whitebox_attack
+
+# DEPENDENCIES INSTALLATION
+pip install tensorflow==2.10.1
+pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu116
+pip install adversarial-robustness-toolbox==1.19.1
+pip install git+https://github.com/nottombrown/imagenet_stubs
+pip install notebook==7.3.2
+pip install matplotlib==3.9.4
+
+# Because we have to install numpy<2.0, we have to install numpy 2.13.5 (Apparently, 1.24 solve the error)
+micromamba remove numpy -y
+OR
+pip uninstall numpy -y
+
+micromamba install -c conda-forge numpy=1.23.5 -y
+OR DIRECTLY
+micromamba install -c conda-forge numpy=1.24 -y
+pip install --upgrade --force-reinstall numpy==1.24 
+
+# Just to avoid WARNING during your dependencies import
+pip install nvidia-pyindex
+pip install nvidia-tensorrt
+
+# Install tensorflow-addons:
+pip install tensorflow-addons==0.18.0
+
+---------------------------------------------
+
+# INSTALL THE GOOD VERSION OF CUDNN
+micromamba install -c conda-forge cudnn=8.1.0
+
+# CHECK IF CUDNN IS WELL INSTALLED
+python -c "import tensorflow as tf; print(tf.sysconfig.get_build_info())"
+
+# FIND THE PATH OF YOUR CUDNN INSTALLATION IN YOUR ENVIRONMENT
+micromamba list | grep cudnn
+
+# You will see some lines like the below one.
+/mnt/aiongpfs/users/mquinet/micromamba/envs/white_box_attack/lib/libcudnn.so.8
+
+# Set correct CuDNN path (OR SIMPLY COPY/PASTE FROM MY WORD FILE)
+export LD_LIBRARY_PATH=/mnt/aiongpfs/users/mquinet/micromamba/envs/whitebox_attack/lib:$LD_LIBRARY_PATH
+
+---------------------------------------------
+
+# Change scipy version if any problem with it : NOT MANDATORY !
+pip install --no-cache-dir scipy==1.12.0
+
+# Run the jupyter notebook on VS Code
+jupyter notebook --no-browser --port=8888
+
+# VS Code will open a message like "Jupyter can be run in your browser in pot 8888, would you open it in your browser ?
+# Press "Open In Browser" Button.
+
+# First time, you will be asked to enter a token. Token is available in your console at this line :
+http://localhost:8888/tree?token=3b1345a139f00af9bef3f0283b23f3b6cf67d1486d020a62
+
+# Copy the number/letter after "token=" here:
+3b1345a139f00af9bef3f0283b23f3b6cf67d1486d020a62
+
+# If you want your own kernel and recognize it : 
+python -m ipykernel install --user --name=whiteboxattack_hpc --display-name "Python (whiteboxattack_hpc)"
+
+# CONGRATULATIONS ! You can now work from jupyter notebook, directly into VS Code, using the computation power of the HPC !
