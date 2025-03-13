@@ -1,0 +1,708 @@
+====== PGD Adversarial Attack Report (ε = 0.031) ======
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane01.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane02.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane03.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane04.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane05.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ship
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane06.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane07.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane08.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane09.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : AIRPLANE ------
+Original image name : airplane10.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile01.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile02.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile03.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile04.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile05.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile06.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile07.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile08.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile09.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : AUTOMOBILE ------
+Original image name : automobile10.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird01.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird02.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird03.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : deer
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird04.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird05.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird06.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird07.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird08.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird09.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : BIRD ------
+Original image name : bird10.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat01.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat02.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat03.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat04.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : frog
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat05.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat06.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat07.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat08.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat09.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : CAT ------
+Original image name : cat10.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer01.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer02.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer03.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer04.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer05.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ship
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer06.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer07.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer08.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : frog
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer09.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : DEER ------
+Original image name : deer10.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog01.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : frog
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog02.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog03.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog04.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog05.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog06.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog07.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog08.jpeg
+Original Prediction : bird
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog09.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : DOG ------
+Original image name : dog10.jpeg
+Original Prediction : dog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog01.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : frog
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog02.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog03.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog04.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog05.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog06.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog07.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog08.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog09.jpeg
+Original Prediction : frog
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : FROG ------
+Original image name : frog10.jpeg
+Original Prediction : cat
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : frog
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse01.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse02.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse03.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse04.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : dog
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse05.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : horse
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse06.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse07.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : deer
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse08.jpeg
+Original Prediction : deer
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bird
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse09.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : deer
+------------------------------------------------
+
+------ CLASS : HORSE ------
+Original image name : horse10.jpeg
+Original Prediction : horse
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : deer
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship01.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship02.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship03.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : deer
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship04.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship05.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ship
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship06.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship07.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship08.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship09.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : SHIP ------
+Original image name : ship10.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : airplane
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck01.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck02.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck03.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : automobile
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck04.jpeg
+Original Prediction : ship
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck05.jpeg
+Original Prediction : airplane
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck06.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck07.jpeg
+Original Prediction : automobile
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : truck
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck08.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck09.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ship
+------------------------------------------------
+
+------ CLASS : TRUCK ------
+Original image name : truck10.jpeg
+Original Prediction : truck
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cat
+------------------------------------------------
+
+============ PERFORMANCE RESUME ============
+Selected Attack: PGD | Dataset: CIFAR10 | Epsilon: 0.031 | Epsilon Step: 0.00784313725490196 | Number of Iterations: 7 | Norm: L_inf | Number of Restarts : 1
+Clean Images : Top-1 : 67.0% | Top-5 : 100.0%
+Adv. Images  : Top-1 : 22.0% | Top-5 : 40.0%
+----------------------------------------------------------Confidence Score: 96.64%
+PGD Efficiency : Top-1 : 78.0% | Top-5 : 60.0%
