@@ -1,0 +1,708 @@
+====== Auto-PGD Adversarial Attack Report (ε = 0.031) ======
+
+------ CLASS : ABACUS ------
+Original image name : abacus01.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : chest
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus02.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : plate rack
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus03.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : shopping basket
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus04.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : drumstick
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus05.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Old English sheepdog, bobtail
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus06.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bow tie, bow-tie, bowtie
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus07.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : iron, smoothing iron
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus08.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : wine bottle
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus09.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : beer bottle
+------------------------------------------------
+
+------ CLASS : ABACUS ------
+Original image name : abacus10.jpeg
+Original Prediction : abacus
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : pole
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn01.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : baseball
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn02.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : rock python, rock snake, Python sebae
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn03.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : soccer ball
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn04.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : green lizard, Lacerta viridis
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn05.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : lacewing, lacewing fly
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn06.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : wool, woolen, woollen
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn07.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : orange
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn08.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : perfume, essence
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn09.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : slug
+------------------------------------------------
+
+------ CLASS : ACORN ------
+Original image name : acorn10.jpeg
+Original Prediction : acorn
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : armadillo
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball01.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : vase
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball02.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : military uniform
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball03.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : soccer ball
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball04.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : swab, swob, mop
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball05.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bottlecap
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball06.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : pick, plectrum, plectron
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball07.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bassinet
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball08.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : pitcher, ewer
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball09.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : sock
+------------------------------------------------
+
+------ CLASS : BASEBALL ------
+Original image name : baseball10.jpeg
+Original Prediction : baseball
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ballplayer, baseball player
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom01.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cardigan
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom02.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : brassiere, bra, bandeau
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom03.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : miniskirt, mini
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom04.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : paintbrush
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom05.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : paintbrush
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom06.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : syringe
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom07.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : paintbrush
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom08.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : shoji
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom09.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : paper towel
+------------------------------------------------
+
+------ CLASS : BROOM ------
+Original image name : broom10.jpeg
+Original Prediction : broom
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : paintbrush
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear01.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cocker spaniel, English cocker spaniel, cocker
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear02.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Lakeland terrier
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear03.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : hog, pig, grunter, squealer, Sus scrofa
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear04.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : African elephant, Loxodonta africana
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear05.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : snow leopard, ounce, Panthera uncia
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear06.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear07.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : hog, pig, grunter, squealer, Sus scrofa
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear08.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Scottish deerhound, deerhound
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear09.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : white wolf, Arctic wolf, Canis lupus tundrarum
+------------------------------------------------
+
+------ CLASS : BROWN_BEAR ------
+Original image name : brown_bear10.jpeg
+Original Prediction : brown bear, bruin, Ursus arctos
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Arabian camel, dromedary, Camelus dromedarius
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe01.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : fountain
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe02.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : marimba, xylophone
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe03.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : paddle, boat paddle
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe04.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : volcano
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe05.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Christmas stocking
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe06.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : goldfinch, Carduelis carduelis
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe07.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : container ship, containership, container vessel
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe08.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : vacuum, vacuum cleaner
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe09.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : drum, membranophone, tympan
+------------------------------------------------
+
+------ CLASS : CANOE ------
+Original image name : canoe10.jpeg
+Original Prediction : canoe
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bullet train, bullet
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus01.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : warthog
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus02.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : cardigan
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus03.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : squirrel monkey, Saimiri sciureus
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus04.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : otter
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus05.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : brain coral
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus06.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : African elephant, Loxodonta africana
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus07.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : mitten
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus08.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Scottish deerhound, deerhound
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus09.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : warthog
+------------------------------------------------
+
+------ CLASS : HIPPOPOTAMUS ------
+Original image name : hippopotamus10.jpeg
+Original Prediction : hippopotamus, hippo, river horse, Hippopotamus amphibius
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Afghan hound, Afghan
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama01.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : otter
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama02.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : jigsaw puzzle
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama03.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Persian cat
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama04.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : Angora, Angora rabbit
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama05.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : hare
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama06.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ram, tup
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama07.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : thimble
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama08.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : doormat, welcome mat
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama09.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : meerkat, mierkat
+------------------------------------------------
+
+------ CLASS : LLAMA ------
+Original image name : llama10.jpeg
+Original Prediction : llama
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : ram, tup
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca01.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : spindle
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca02.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : soccer ball
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca03.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : spindle
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca04.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : swab, swob, mop
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca05.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : spindle
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca06.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : baseball
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca07.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : wool, woolen, woollen
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca08.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : spindle
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca09.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : sandal
+------------------------------------------------
+
+------ CLASS : MARACA ------
+Original image name : maraca10.jpeg
+Original Prediction : maraca
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : suit, suit of clothes
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike01.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : moped
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike02.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : crash helmet
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike03.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bicycle-built-for-two, tandem bicycle, tandem
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike04.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : moped
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike05.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : tricycle, trike, velocipede
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike06.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : motor scooter, scooter
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike07.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bicycle-built-for-two, tandem bicycle, tandem
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike08.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : moped
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike09.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bicycle-built-for-two, tandem bicycle, tandem
+------------------------------------------------
+
+------ CLASS : MOUNTAIN_BIKE ------
+Original image name : mountain_bike10.jpeg
+Original Prediction : mountain bike, all-terrain bike, off-roader
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : bicycle-built-for-two, tandem bicycle, tandem
+------------------------------------------------
+
+============ PERFORMANCE RESUME ============
+Selected Attack: Auto-PGD | Dataset: ImageNet | Epsilon: 0.031 | Epsilon Step: Dynamics | Number of Iterations: 20 | Norm: L_inf | Number of Restarts : 1
+Clean Images : Top-1 : 100.0% | Top-5 : 100.0%
+Adv. Images  : Top-1 : 0.0% | Top-5 : 3.0%
+----------------------------------------------------------Confidence Score: 95.00%
+Auto-PGD Efficiency : Top-1 : 100.0% | Top-5 : 97.0%

@@ -1,0 +1,708 @@
+====== DeepFool Adversarial Attack Report (ε = 0.031) ======
+
+------ CLASS : ZERO ------
+Original image name : zero01.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero02.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 6
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero03.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero04.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero05.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero06.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 0
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero07.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero08.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 6
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero09.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 0
+------------------------------------------------
+
+------ CLASS : ZERO ------
+Original image name : zero10.jpeg
+Original Prediction : 0
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one01.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 6
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one02.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one03.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one04.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one05.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 1
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one06.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one07.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one08.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one09.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : ONE ------
+Original image name : one10.jpeg
+Original Prediction : 1
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two01.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two02.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two03.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two04.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 1
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two05.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two06.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two07.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two08.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two09.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : TWO ------
+Original image name : two10.jpeg
+Original Prediction : 2
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three01.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three02.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three03.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three04.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three05.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three06.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three07.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three08.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three09.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : THREE ------
+Original image name : three10.jpeg
+Original Prediction : 3
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four01.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 1
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four02.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four03.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 1
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four04.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four05.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four06.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four07.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four08.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four09.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : FOUR ------
+Original image name : four10.jpeg
+Original Prediction : 4
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five01.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five02.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 6
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five03.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five04.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five05.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five06.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five07.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five08.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five09.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : FIVE ------
+Original image name : five10.jpeg
+Original Prediction : 5
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six01.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six02.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six03.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 6
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six04.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six05.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six06.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six07.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six08.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six09.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 0
+------------------------------------------------
+
+------ CLASS : SIX ------
+Original image name : six10.jpeg
+Original Prediction : 6
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 0
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven01.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven02.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven03.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven04.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven05.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven06.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven07.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven08.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven09.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : SEVEN ------
+Original image name : seven10.jpeg
+Original Prediction : 7
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight01.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 6
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight02.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight03.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight04.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight05.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight06.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight07.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight08.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight09.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : EIGHT ------
+Original image name : eight10.jpeg
+Original Prediction : 8
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 3
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine01.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine02.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine03.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine04.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 5
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine05.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 8
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine06.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine07.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 1
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine08.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 2
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine09.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 4
+------------------------------------------------
+
+------ CLASS : NINE ------
+Original image name : nine10.jpeg
+Original Prediction : 9
+Targeted / Untargeted : Untargeted
+Adversarial Prediction : 9
+------------------------------------------------
+
+============ PERFORMANCE RESUME ============
+Selected Attack: DeepFool | Dataset: MNIST | Epsilon: 0.031 | Epsilon Step: Dynamics | Number of Iterations: 100
+Clean Images : Top-1 : 100.0% | Top-5 : 100.0%
+Adv. Images  : Top-1 : 17.0% | Top-5 : 75.0%
+----------------------------------------------------------Confidence Score: 99.70%
+DeepFool Efficiency : Top-1 : 83.0% | Top-5 : 25.0%
